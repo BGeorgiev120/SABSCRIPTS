@@ -1,4 +1,4 @@
-AP: ``loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/Ap%20Spammer"))()``
+AP:``loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/Ap%20Spammer"))()``
 
 Duel: ``loadstring(game:HttpGet("https://github.com/BGeorgiev120/SABSCRIPTS/blob/main/Duel%20Script"))()``
 
