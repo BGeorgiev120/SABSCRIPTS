@@ -7,3 +7,5 @@ FreezeTrade: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgi
 NineHub: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/NineHub.lua"))()`
 
 SfHub-ApSpammer: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/SfHub-ApSpammer.lua"))()`
+
+Illusion Dev: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/IllusionDev.lua"))()`
