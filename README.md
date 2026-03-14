@@ -9,3 +9,5 @@ NineHub: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev12
 SfHub-ApSpammer: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/SfHub-ApSpammer.lua"))()`
 
 Illusion Dev: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/IllusionDev.lua"))()`
+
+22s Duel: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/22sDuel"))()`
