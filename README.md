@@ -11,3 +11,5 @@ SfHub-ApSpammer: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGe
 Illusion Dev: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/IllusionDev.lua"))()`
 
 22s Duel: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/22sDuel"))()`
+
+Kwatan: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/Kawatan.lua"))()`
