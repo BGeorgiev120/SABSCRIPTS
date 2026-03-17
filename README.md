@@ -13,3 +13,5 @@ Illusion Dev: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorg
 22s Duel: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/22sDuel"))()`
 
 Kwatan: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/Kawatan.lua"))()`
+
+Og Secret Lucky Block: `loadstring(game:HttpGet("https://raw.githubusercontent.com/BGeorgiev120/SABSCRIPTS/refs/heads/main/OgSecretLuckyBlock.lua"))()`
